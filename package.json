@@ -1,0 +1,14 @@
+{
+  "name": "grove",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 in practice",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Frlix",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
